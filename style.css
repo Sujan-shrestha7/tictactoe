@@ -81,3 +81,7 @@ html, body{
   background-color: black;
   transition: width 1s ease-in-out;
 }
+marquee{
+  color:  rgb(28, 161, 35);
+  background-color: black;
+}
